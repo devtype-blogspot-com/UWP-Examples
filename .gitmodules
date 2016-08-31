@@ -1,0 +1,3 @@
+[submodule "Windows-universal-samples"]
+	path = Windows-universal-samples
+	url = https://github.com/Microsoft/Windows-universal-samples.git
