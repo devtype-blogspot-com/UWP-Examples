@@ -1,7 +1,7 @@
 # Примеры приложений для Universal Windows Platform
 
-  - [Windows-universal-samples][win-uni-sam]
-      - [Windows code samples - Windows app development][win-code-sam]
+  - [Windows code samples - Windows app development][win-code-sam]
+      - [Windows-universal-samples][win-uni-sam]
   - [Пример простого UWP-приложения][0]
       - [HelloWorldAppWithUWP][1]
   - [Пространства имён в WinJS][2]
